@@ -1,0 +1,12 @@
+{
+  "Name": "Movie Posters",
+  "Author": "Huppuph",
+  "Version": "1.0.0",
+  "Description": "Replaces posters with real movies.",
+  "UniqueID": "Huppuph.MoviePosters",
+  "MinimumApiVersion": "2.11.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", 
+  }
+}
