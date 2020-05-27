@@ -3,7 +3,7 @@
   "Author": "Huppuph",
   "Version": "1.0.0",
   "Description": "Posters of real-life films.",
-  "UniqueID": "Huppuph.NoviePosters",
+  "UniqueID": "Huppuph.MoviePosters",
   "MinimumApiVersion": "2.11.0",
   "UpdateKeys": [],
   "ContentPackFor": {
