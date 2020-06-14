@@ -1,0 +1,13 @@
+{
+  "Format": "1.14.0",
+  "Changes": [
+  
+  {
+    "Action": "EditImage",
+    "Target": "Tilesheets/Craftables",
+    "FromFile": "Deluxe Scarecrow.png",
+    "ToArea": { "X": 112, "Y": 640, "Width": 16, "Height": 32 },
+    "FromArea": { "X": 112, "Y": 640, "Width": 16, "Height": 32 },
+  },
+ ]
+}
