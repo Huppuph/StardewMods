@@ -1,0 +1,13 @@
+{
+	"Name": "Wan Shi Tong Deluxe Scarecrow",
+	"Author": "Huppuph",
+	"Version": "1.0.0",
+	"Description": "Add deluxe scarecrow for Ankokou's Owl Scarecrows",
+	"UniqueID": "Huppuph.WanShiTong",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [],
+	"ContentPackFor":
+	{
+		"UniqueID": "Pathoschild.ContentPatcher",
+	}
+}
