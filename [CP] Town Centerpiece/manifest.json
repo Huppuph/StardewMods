@@ -1,0 +1,12 @@
+{
+"Name": "Town Centerpiece",
+"Author": "Huppuph",
+"Version": "1.0",
+"UniqueID":"hup.towncenterpiece",
+"Description": "Replace your centerpiece with decorations based on upcoming festival.",
+"UpdateKeys": [],
+"ContentPackFor": {
+    	"UniqueID": "Pathoschild.ContentPatcher",
+    	"MinimumVersion": "1.5",
+      },
+}
